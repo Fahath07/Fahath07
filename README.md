@@ -1,7 +1,6 @@
 # Hi, I'm Fahath Al Salam 👋
 
-🚀 Full Stack Developer
-🤖 AI Enthusiast
+🚀 Aspiring Full Stack Developer
 🎓 CSE @ Sri Eshwar College of Engineering
 
 ## 🚀 Currently Building
