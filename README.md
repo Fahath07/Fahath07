@@ -16,14 +16,24 @@ MongoDB • MySQL • Git • GitHub
 
 ## 🌟 Featured Projects
 
-### 🚑 Smart Ambulance Dispatch System
-AI-powered emergency response platform.
+🚀 Featured Projects
+🏥 MedFind
 
-### 🅿️ WisePark AI
-Smart parking allocation system.
+A healthcare platform that helps users discover hospitals, clinics, doctors, and medical services efficiently.
 
-### 🚗 Vehicle Service Reminder
-Automated service tracking system.
+Tech: React • Python • Database Systems
+
+✈️ TrailBliss
+
+A smart tour planning platform that helps travelers discover destinations, customize trips, and manage travel experiences seamlessly.
+
+Tech: React • Node/Python • Modern UI/UX
+
+🏛️ SmartCivic
+
+A civic engagement platform that connects citizens with local government services, complaint management, and public service requests.
+
+Tech: Full Stack Development • Database Management
 
 ## 📫 Connect With Me
 
