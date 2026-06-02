@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fahath Al Salam 👋
 
-<!--
-**Fahath07/Fahath07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer
+🤖 AI Enthusiast
+🎓 CSE @ Sri Eshwar College of Engineering
 
-Here are some ideas to get you started:
+## 🚀 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MedFind
+- TrailBliss
+- CivicPulse
+
+## 💻 Tech Stack
+
+Python • Django • Flask • React
+MongoDB • MySQL • Git • GitHub
+
+## 🌟 Featured Projects
+
+### 🚑 Smart Ambulance Dispatch System
+AI-powered emergency response platform.
+
+### 🅿️ WisePark AI
+Smart parking allocation system.
+
+### 🚗 Vehicle Service Reminder
+Automated service tracking system.
+
+## 📫 Connect With Me
+
+LinkedIn
+Instagram
+Portfolio
